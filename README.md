@@ -38,6 +38,20 @@ There are currently 2 different modes. The default draws CSS box-shadows pixel-b
 
         python run.py -b -t 0.85
 
+## Examples
+
+Note: output images here are screenshots of the HTML page produced
+
+|            Reference                    |        Pixel-By-Pixel             |            BFS Method                 |
+| --------------------------------------- | --------------------------------- | ------------------------------------- |
+|![Scream Reference](/media/scream.jpg)   |![ScreamP](/examples/screamp.jpg)  |![ScreamBFS](/examples/screambfs.jpg)  |
+|![Example Reference](/media/example.jpg) |![ExampleP](/examples/examplep.jpg)|![ExampleBFS](/examples/examplebfs.jpg)|
+|![Homer Reference](/media/homer.bmp)     |![HomerP](/examples/homerp.jpg)    |![HomerBFS](/examples/homerbfs.jpg)    |
+|![Van Gogh Reference](/media/vangogh.jpg)|![VanGoghP](/examples/vangoghp.jpg)|![VanGoghBFS](/examples/vangoghbfs.jpg)|
+|![Maze Reference](/media/maze.bmp)       |![MazeP](/examples/mazep.jpg)      |![MazeBFS](/examples/mazebfs.jpg)      |
+
+
+
 ## License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
